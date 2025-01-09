@@ -12,3 +12,4 @@ C:\Users\Picha\Documents\dio-teste-unitario-c#\Teste-Unitario-dio\Calculadora\ob
 C:\Users\Picha\Documents\dio-teste-unitario-c#\Teste-Unitario-dio\Calculadora\obj\Debug\net9.0\Calculadora.pdb
 C:\Users\Picha\Documents\dio-teste-unitario-c#\Teste-Unitario-dio\Calculadora\obj\Debug\net9.0\Calculadora.genruntimeconfig.cache
 C:\Users\Picha\Documents\dio-teste-unitario-c#\Teste-Unitario-dio\Calculadora\obj\Debug\net9.0\ref\Calculadora.dll
+C:\Users\Picha\Documents\dio-teste-unitario-c#\Teste-Unitario-dio\Calculadora\obj\Debug\net9.0\Calculadora.sourcelink.json
